@@ -30,7 +30,7 @@ IMG_SIZE_VAL = 320
 
 GLOBAL_SCALE = (0.7, 1.0)
 LOCAL_SCALE  = (0.25, 0.6)
-MICRO_SCALE  = (0.08, 0.20)   # 新增：更微的局部视角
+MICRO_SCALE  = (0.08, 0.20)   #更微的局部视角
 
 DUAL_VIEW_RATIO = 0.30        # 仅 30% 样本使用双视角
 
